@@ -70,3 +70,12 @@ A simple and effective personal finance management app built using **Kotlin** in
 | Geetha Madhuri. P   | 22BDS0255   | CSE with Data Science    | 3rd Year |
 
 ---
+
+Presentation on SpendWise:
+[ExpenseTracker (1).pptx](https://github.com/user-attachments/files/20839715/ExpenseTracker.1.pptx)
+
+Demo Video:
+https://github.com/user-attachments/assets/8d0cc1d4-cb4c-4c53-bb4d-c6edd7ae6038
+
+
+
